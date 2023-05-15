@@ -1,0 +1,13 @@
+{
+  "name": "brain-games",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Brain games — is a set of five console games built around popular mobile brain-pumping apps.",
+  "main": "index.js",
+  "author": "Vladislav Mayakin",
+  "devDependencies": {
+    "eslint": "^8.40.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.27.5"
+  }
+}
