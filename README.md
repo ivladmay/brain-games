@@ -1,1 +1,1 @@
-# brain-games
+[![CI](https://github.com/ivladmay/brain-games/actions/workflows/CI.yml/badge.svg)](https://github.com/ivladmay/brain-games/actions/workflows/CI.yml) [![Maintainability](https://api.codeclimate.com/v1/badges/ec4bdf72e8ab44a3d55c/maintainability)](https://codeclimate.com/github/ivladmay/brain-games/maintainability)
