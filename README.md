@@ -9,7 +9,7 @@ _Для корректной работы в вашей ОС должна быт
 ##### Порядок установки:
 
 1. Запустите терминал и склонируйте репозиторий в вашу домашнюю директорию
-   `https://github.com/ivladmay/brain-games.git`
+   `git clone https://github.com/ivladmay/brain-games.git`
 2. Перейдите в склонированный репозиторий `cd brain-games`
 3. Выполните команду `make install`
 4. Выполните команду `make link`
